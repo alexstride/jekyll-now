@@ -1,10 +1,12 @@
 ---
-layout: post
-title: You're up and running!
+layout: Blog Post
+title: Genetic Algorithms 1 - Getting Stuck In
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Plan: 
+1. Mission statement of this series of the blog (This is a series of articles to document my exploration of genetic algorithms, as I have some ideas for potential applications and want to see what they are capable of).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+2. Documentation of resources followed so far + links. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+3. Links to the python library which I have written and brief gif of the genetic a basic phrase being evolved. 
+
