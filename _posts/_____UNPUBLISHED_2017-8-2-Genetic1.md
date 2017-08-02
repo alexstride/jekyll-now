@@ -14,3 +14,14 @@ So the first place I went in my search was, of course, Youtube. And I watched th
 
 **An 'individual' is the work used to describe just one evolvable thing, with one set of genetic material. In genetic algorithms we talk in terms of individuals and populations.*
 
+Once you have each of these things, it is simply a case of assessing the fitness of every individual in the population and then using this fitness to decide *probablistically* how likely each individual is to produce offspring. You can then produce the offspring using the reproduction method and then rinse and repeat until you find what you are looking for. 
+
+In one video in the series (linked in the thumbnail below), Daniel Schiffman demonstrates the genetic algorithm at work by showing an example algorithm trying to evolve to find a specific string - in this case "to be or not to be". 
+
+<a href="https://youtu.be/nrKjSeoc7fc?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV
+" target="_blank"><img src="https://img.youtube.com/vi/nrKjSeoc7fc/0.jpg" 
+alt="Video Link" width="320" height="240" border="10" /></a>
+
+He actually provides links to all of the code for this demonstration (see the youtube video for those), but I decided that the best way to get my head around how this all works was to make my own version from scratch, so in my next post I will be providing some generic Python code for implementing a genetic algorithm, as well as some code to evolve strings of characters.
+
+Until then, happy coding!
