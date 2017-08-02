@@ -1,5 +1,5 @@
 ---
-layout: Blog post
+layout: post
 title: Genetic Algorithms 1 - Getting Stuck In
 ---
 
